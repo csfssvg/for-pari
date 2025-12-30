@@ -1,4 +1,4 @@
-# for-pari
+
 <!doctype html>
 <html>
 <head>
